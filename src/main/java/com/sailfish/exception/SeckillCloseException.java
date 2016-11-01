@@ -3,7 +3,6 @@ package com.sailfish.exception;
 /**
  * 秒杀关闭异常
  * 
- * @author 李奕锋
  */
 public class SeckillCloseException extends SeckillException {
 

@@ -3,7 +3,6 @@ package com.sailfish.dto;
 /**
  * 暴露秒杀接口DTO
  * 
- * @author 李奕锋
  */
 public class Exposer {
 
